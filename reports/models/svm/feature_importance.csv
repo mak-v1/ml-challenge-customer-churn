@@ -1,0 +1,19 @@
+feature,type,value
+num__tenure,permutation_AP,0.12142421855825221
+cat__OnlineSecurity_No internet service,permutation_AP,0.07694169801820344
+num__PaperlessBilling,permutation_AP,0.0592419173343174
+cat__OnlineBackup_Yes,permutation_AP,0.03153871558192976
+cat__OnlineSecurity_Yes,permutation_AP,0.01677998313997346
+cat__TechSupport_No internet service,permutation_AP,0.016153009425187187
+num__MonthlyCharges,permutation_AP,0.013143561158205974
+cat__InternetService_No,permutation_AP,0.01217665315305931
+num__security_support_count,permutation_AP,0.011007910111032596
+cat__DeviceProtection_No internet service,permutation_AP,0.009972787568696101
+num__Dependents,permutation_AP,0.009182032355000466
+cat__InternetService_Fiber optic,permutation_AP,0.008864296790258325
+cat__DeviceProtection_Yes,permutation_AP,0.008196941586215964
+num__streaming_count,permutation_AP,0.008101931938033491
+num__Partner,permutation_AP,0.006406365063213182
+num__avg_monthly_spend,permutation_AP,0.004437209994630362
+num__SeniorCitizen,permutation_AP,0.0025492305775748347
+cat__OnlineBackup_No internet service,permutation_AP,-0.006072395421400464

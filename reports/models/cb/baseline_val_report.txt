@@ -1,0 +1,17 @@
+CatBoost Validation Metrics
+ROC-AUC: 0.843857
+PR-AUC: 0.676483
+Best threshold: 0.7334
+
+              precision    recall  f1-score   support
+
+           0      0.863     0.879     0.871      1029
+           1      0.644     0.612     0.628       369
+
+    accuracy                          0.808      1398
+   macro avg      0.754     0.745     0.749      1398
+weighted avg      0.805     0.808     0.807      1398
+
+Confusion matrix:
+[[904 125]
+ [143 226]]

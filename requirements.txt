@@ -1,0 +1,19 @@
+# Core modeling & data
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.9.1
+joblib==1.4.2
+catboost==1.2.5
+
+# API service
+fastapi==0.115.11
+uvicorn==0.30.3
+
+# Optional (plots / PDF generation already uses matplotlib; add if future enhancements)
+# seaborn==0.13.2
+
+# NOTE:
+# - scikit-learn pinned to match development environment.
+# - If GPU acceleration for CatBoost is desired, ensure proper CUDA toolkit and install catboost GPU build.
+# - For reproducibility across platforms, consider hashing lock (pip-tools) in production.

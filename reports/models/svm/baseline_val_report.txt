@@ -1,0 +1,13 @@
+SVM Validation Metrics
+ROC-AUC: 0.834142
+PR-AUC: 0.638230
+Best threshold: 0.4312
+
+              precision    recall  f1-score   support
+
+           0      0.888     0.807     0.845      1029
+           1      0.570     0.715     0.635       369
+
+    accuracy                          0.783      1398
+   macro avg      0.729     0.761     0.740      1398
+weighted avg      0.804     0.783     0.790      1398

@@ -1,0 +1,47 @@
+feature,type,value
+cat__InternetService_Fiber optic,coefficient,1.069917167136854
+cat__PaymentMethod_Electronic check,coefficient,0.4682923701783648
+num__streaming_count,coefficient,0.22009778969380717
+num__PaperlessBilling,coefficient,0.1652174340984185
+cat__DeviceProtection_Yes,coefficient,0.1360472627774106
+cat__OnlineBackup_Yes,coefficient,0.11050883924924478
+cat__StreamingMovies_Yes,coefficient,0.09801811508590341
+cat__StreamingTV_Yes,coefficient,0.08998593563033155
+num__SeniorCitizen,coefficient,0.06645631656106522
+num__Partner,coefficient,0.028938718934883114
+num__avg_monthly_spend,coefficient,0.02764819613822661
+cat__PaymentMethod_Credit card (automatic),coefficient,-0.0031954105429883644
+cat__PaymentMethod_Mailed check,coefficient,-0.023971166919382426
+num__security_support_count,coefficient,-0.09553935903337624
+cat__InternetService_No,coefficient,-0.13046809015676133
+cat__OnlineSecurity_No internet service,coefficient,-0.13046809015676133
+cat__OnlineBackup_No internet service,coefficient,-0.13046809015676133
+cat__DeviceProtection_No internet service,coefficient,-0.13046809015676133
+cat__TechSupport_No internet service,coefficient,-0.13046809015676133
+cat__StreamingTV_No internet service,coefficient,-0.13046809015676133
+cat__StreamingMovies_No internet service,coefficient,-0.13046809015676133
+num__Dependents,coefficient,-0.1678065262039121
+cat__OnlineSecurity_Yes,coefficient,-0.17899084765447384
+cat__TechSupport_Yes,coefficient,-0.19110752882447055
+num__MonthlyCharges,coefficient,-0.19575252143476582
+cat__Contract_One year,coefficient,-0.6807602645889225
+num__tenure,coefficient,-0.7840957863486681
+cat__Contract_Two year,coefficient,-1.3336798180266085
+num__tenure,permutation_AP,0.14376795007020235
+num__PaperlessBilling,permutation_AP,0.0909102723625264
+cat__OnlineSecurity_No internet service,permutation_AP,0.043389925392075174
+cat__OnlineSecurity_Yes,permutation_AP,0.023636204568234565
+cat__DeviceProtection_Yes,permutation_AP,0.023449800086264364
+cat__OnlineBackup_Yes,permutation_AP,0.016045407212361765
+num__streaming_count,permutation_AP,0.007449681045013076
+cat__TechSupport_No internet service,permutation_AP,0.007397406486198174
+cat__OnlineBackup_No internet service,permutation_AP,0.0073888410512836095
+num__security_support_count,permutation_AP,0.006210328229025966
+num__MonthlyCharges,permutation_AP,0.005685795800824345
+num__Dependents,permutation_AP,0.005028166154158228
+cat__InternetService_Fiber optic,permutation_AP,0.00468590641882051
+num__SeniorCitizen,permutation_AP,0.0014694393825629426
+num__avg_monthly_spend,permutation_AP,0.001426689415149049
+cat__DeviceProtection_No internet service,permutation_AP,0.0006055657044230917
+num__Partner,permutation_AP,0.000353846945039496
+cat__InternetService_No,permutation_AP,-0.0007436942908397998

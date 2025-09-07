@@ -1,0 +1,17 @@
+CatBoost FINAL Test Metrics
+ROC-AUC: 0.844386
+PR-AUC: 0.641365
+Chosen threshold: 0.5283
+
+              precision    recall  f1-score   support
+
+           0      0.898     0.780     0.835      1029
+           1      0.552     0.754     0.638       370
+
+    accuracy                          0.773      1399
+   macro avg      0.725     0.767     0.736      1399
+weighted avg      0.807     0.773     0.783      1399
+
+Confusion matrix:
+[[803 226]
+ [ 91 279]]

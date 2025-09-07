@@ -1,0 +1,13 @@
+Random Forest FINAL Test Metrics
+ROC-AUC: 0.816470
+PR-AUC: 0.573798
+Chosen threshold: 0.2640
+
+              precision    recall  f1-score   support
+
+           0      0.887     0.736     0.804      1029
+           1      0.502     0.741     0.598       370
+
+    accuracy                          0.737      1399
+   macro avg      0.695     0.738     0.701      1399
+weighted avg      0.785     0.737     0.750      1399

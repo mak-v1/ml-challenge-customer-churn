@@ -1,0 +1,13 @@
+SVM FINAL Test Metrics
+ROC-AUC: 0.830449
+PR-AUC: 0.602503
+Chosen threshold: 0.3031
+
+              precision    recall  f1-score   support
+
+           0      0.901     0.766     0.828      1029
+           1      0.540     0.765     0.633       370
+
+    accuracy                          0.766      1399
+   macro avg      0.720     0.765     0.730      1399
+weighted avg      0.805     0.766     0.776      1399

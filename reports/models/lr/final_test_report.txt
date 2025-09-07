@@ -1,0 +1,13 @@
+Logistic Regression FINAL Test Metrics
+ROC-AUC: 0.843254
+PR-AUC: 0.613315
+Chosen threshold: 0.5400
+
+              precision    recall  f1-score   support
+
+           0      0.898     0.771     0.829      1029
+           1      0.543     0.757     0.632       370
+
+    accuracy                          0.767      1399
+   macro avg      0.720     0.764     0.731      1399
+weighted avg      0.804     0.767     0.777      1399

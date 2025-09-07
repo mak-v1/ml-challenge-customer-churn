@@ -1,0 +1,13 @@
+Random Forest Validation Metrics
+ROC-AUC: 0.826616
+PR-AUC: 0.611704
+Best threshold: 0.3340
+
+              precision    recall  f1-score   support
+
+           0      0.886     0.776     0.827      1029
+           1      0.535     0.721     0.614       369
+
+    accuracy                          0.761      1398
+   macro avg      0.710     0.748     0.721      1398
+weighted avg      0.793     0.761     0.771      1398
